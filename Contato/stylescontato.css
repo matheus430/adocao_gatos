@@ -6,8 +6,6 @@
   font-family: Anton, Agbalumo, fantasy, sans-serif;
 }
 
-/* estilizacao top barra */
-
 .header-style {
   height: 100px;
   width: 100%;
@@ -79,13 +77,9 @@
   border-radius: 5%;
 }
 
-/* ! estilizacao icone */
-
 #seta-style {
   color: #ffe44d;
 }
-
-/* ! estilizacao form */
 
 fieldset {
   padding: 1rem;
@@ -113,6 +107,10 @@ form:hover {
   transform: 0.5s;
 }
 
+#descricao{
+  width: 100%;
+}
+
 .title-form {
   text-align: center;
 }
@@ -123,8 +121,6 @@ form:hover {
   align-items: start;
   padding: 20px;
 }
-
-/* estilo informativo */
 
 .filho-2 {
   display: flex;
@@ -155,8 +151,6 @@ form:hover {
   letter-spacing: 2px;
 }
 
-/* estilo informativo */
-
 #div-informativo {
   display: flex;
   justify-content: end;
@@ -168,8 +162,6 @@ form:hover {
   text-shadow: 1px 1px white, 2px 2px #f2f2f2;
 }
 
-/* estilizacao banner  */
-
 #banner-styles {
   position: fixed;
   opacity: 20%;
@@ -177,8 +169,6 @@ form:hover {
   width: 100%;
   top: 90px;
 }
-
-/* estilizacao do botao */
 
 #div-botao {
   display: flex;
@@ -214,8 +204,6 @@ form:hover {
   box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.2);
   transform: translateY(2px);
 }
-
-/* estilizacao footer */
 
 #footer-div {
   background-color: #f2f2f2;
